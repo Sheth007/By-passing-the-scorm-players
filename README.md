@@ -6,3 +6,9 @@ First you have to start the video and then visit the inspect element then go to 
 ``` bash
 watch in url if theres anywhere the scorm menthioned then your LMS has the scorm protection 👍
 ```
+
+<h1>What if you can not paste this?</h1>
+
+``` bash
+if you can not paste this then in console write "allow pasting" without this quotation marks 👍
+```
