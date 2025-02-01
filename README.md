@@ -12,3 +12,4 @@ watch in url if theres anywhere the scorm menthioned then your LMS has the scorm
 ``` bash
 if you can not paste this then in console write "allow pasting" without this quotation marks 👍
 ```
+<h1>⚠ IF YOU ARE GOING TO USE THIS THEN THERES HIGH CHANCE TO THEY WILL BLOACK YOU LOGIN CREDENTIALS OR YOU IP</h1>
